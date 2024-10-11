@@ -50,8 +50,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/Shader-Lab-lightgrey?style=for-the-badge&logo=unity&logoColor=white" alt="ShaderLab" />
-  <img src="https://img.shields.io/badge/VFX-Graph-ff69b4?style=for-the-badge&logo=unity&logoColor=white" alt="VFX Graph" />
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
   <img src="https://img.shields.io/badge/VRChat-000000?style=for-the-badge&logo=vrchat&logoColor=white" alt="VRChat" />
   <img src="https://img.shields.io/badge/Reverse_Engineering-red?style=for-the-badge&logo=binary&logoColor=white" alt="Reverse Engineering" />
