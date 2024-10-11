@@ -2,10 +2,10 @@
   <img src="https://github.com/FemboyLucky/img/blob/13bc6a2853b18c8ff9479def9ed38de48ce7dfe3/banner.png" width="720" height="300"/>
 </div>
 
-# <div align="center">👋 Hello, I'm Lucky! 🍀</div>
+# <div align="center">👋 H-hewwo, I'm Lucky! 🍀</div>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=ADB3FF&center=true&width=435&lines=A+Curious+Self-Taught+Developer+%3A3" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=ADB3FF&center=true&width=435&lines=A+Curious+Self-Taught+Developer+=w=" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
@@ -14,21 +14,21 @@
   <img src="https://img.shields.io/github/stars/femboylucky?label=Stars&style=social" alt="stars" />
 </p>
 
-## 🏆 GitHub Trophies
+## 🏆 My Shiny GitHub Trophies :3
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=femboylucky&theme=nord&column=7&no-frame=true" alt="trophies" />
 </p>
 
-## 🚀 About Me
+## 🚀 About Me 
 
-- 🔭 Currently working on: **Whatever sparks my curiosity!** From video game hacks/cheats to VRChat avatar creation, or anything that catches my eye.
+- 🔭 Currently working on: **Whatever sparks my curiosity!** From video game hacks/cheats to VRChat avatar creation, or anything that catches my eye.U
 
-- 🌱 Always learning: Diving into **LUA, C++, C#, Python** while honing my skills in **Unity Engine** and **Blender**.
+- 🌱 Always learning: Dabbling in **LUA, C++, C#, Python** while mastering **Unity Engine** and **Blender** to make my dreams come true.
 
 - 💻 Experience: 
-  - Developed a custom CS:GO cheat using C++ and created various Lua scripts to enhance other CS:GO cheats' functionality.
+  - Made a custom CS:GO cheat with C++ and developed Lua scripts for cheat enhancements *nya~*.
   - Crafting immersive VRChat avatars with custom shaders and animations.
-  - Basic knowledge of reverse engineering for game modding.
+  - Basic knowledge of reverse engineering for game modding (*sneaky sneaky*).
   - Unity shader development and VFX animation keyframing.
 
 - 🎮 Passion: Game modding, reverse engineering, creating LUA scripts for various programs & cheats and VR development.
@@ -36,11 +36,11 @@
 - 🛠️ Favorite tools and software: 
   - **Unity Engine**: For VRChat avatar and world development, animation keyframing, and shader creation.
   - **Blender**: 3D modeling and animation.
-  - Various IDEs and reverse engineering tools for different projects.
+  - IDEs and reverse engineering for the techie stuff! :3
 
-- 💬 Ask me about: Game modding, VRChat avatar creation, or anything tech-related!
+- 💬 Ask me about: Game modding, VRChat avatars, or just anything techy! I'll try my best to help you :3
 
-- ⚡ Fun fact: Sometimes a goober but always looking for a challenge to test my current skills >:3
+- ⚡ Fun fact: I'm a little goofball, and always up for a challenge and looking for something new to learn! >:3
 
 ## 🛠️ My Toolkit
 
@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/Reverse_Engineering-red?style=for-the-badge&logo=binary&logoColor=white" alt="Reverse Engineering" />
 </p>
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=femboylucky&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -74,14 +74,8 @@
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://discord.gg/your-discord-invite" target="_blank">
+  <a href="https://discord.com/channels/@me/1293686677600210984" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -97,6 +91,5 @@ Because they know the moment they open up, someone’s going to fuck with their 
 
 ---
 
-<div align="center">
-  Thanks for stopping by! Feel free to check out my repositories and don't hesitate to reach out!
+<div align="center"> Thanks for visiting my page~! Feel free to explore my repos and let's be friends! ^-^ 
 </div>
