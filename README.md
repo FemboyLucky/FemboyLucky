@@ -21,7 +21,7 @@
 
 ## 🚀 About Me 
 
-- 🔭 Currently working on: **Whatever sparks my curiosity!** From video game hacks/cheats to VRChat avatar creation, or anything that catches my eye.U
+- 🔭 Currently working on: **Whatever sparks my curiosity!** From video game hacks/cheats to VRChat avatar creation, or anything that catches my eye.
 
 - 🌱 Always learning: Dabbling in **LUA, C++, C#, Python** while mastering **Unity Engine** and **Blender** to make my dreams come true.
 
