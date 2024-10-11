@@ -86,7 +86,13 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=grow_out_in&layout=churchill&font=default" alt="Random Dev Quote" />
+How does a C# developer deal with a bad code review?
+  
+  “If you don’t like my code, you can fuck off! It's not a bug; it’s a feature!”
+
+Why don’t C# developers trust people?
+
+Because they know the moment they open up, someone’s going to fuck with their API access!
 </div>
 
 ---
