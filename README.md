@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/FemboyLucky/img/refs/heads/main/banner.png?token=GHSAT0AAAAAACYVD367WSGN4F52PZ2QPPXQZYIXJZQ" width="720" height="320"/>
+  <img src="https://raw.githubusercontent.com/FemboyLucky/img/refs/heads/main/banner.png?token=GHSAT0AAAAAACYVD367WSGN4F52PZ2QPPXQZYIXJZQ" width="720" height="300"/>
 </div>
 
 # <div align="center">👋 Hello, I'm Lucky! 🍀</div>
