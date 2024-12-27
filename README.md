@@ -2,7 +2,7 @@
   <img src="https://github.com/FemboyLucky/img/blob/13bc6a2853b18c8ff9479def9ed38de48ce7dfe3/banner.png" width="720" height="300"/>
 </div>
 
-# <div align="center">👋 H-hewwo, I'm Lucky! 🍀</div>
+# <div align="center">👋 Hi!, I'm Lucky! 🍀</div>
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=ADB3FF&center=true&width=435&lines=A+Curious+Self-Taught+Developer+=w=" alt="Typing SVG" /></a>
@@ -26,7 +26,7 @@
 - 🌱 Always learning: Dabbling in **LUA, C++, C#, Python** while mastering **Unity Engine** and **Blender** to make my dreams come true.
 
 - 💻 Experience: 
-  - Made a custom CS:GO cheat with C++ and developed Lua scripts for cheat enhancements *nya~*.
+  - Made a custom CS:GO cheat with C++ and developed Lua scripts for cheat enhancements.
   - Crafting immersive VRChat avatars with custom shaders and animations.
   - Basic knowledge of reverse engineering for game modding (*sneaky sneaky*).
   - Unity shader development and VFX animation keyframing.
@@ -38,9 +38,9 @@
   - **Blender**: 3D modeling and animation.
   - IDEs and reverse engineering for the techie stuff! :3
 
-- 💬 Ask me about: Game modding, VRChat avatars, or just anything techy! I'll try my best to help you :3
+- 💬 Ask me about: Game modding, VRChat avatars, or just anything techy! I'll try my best to help you.
 
-- ⚡ Fun fact: I'm a little goofball, and always up for a challenge and looking for something new to learn! >:3
+- ⚡ Fun fact: I'm a little goofball, and always up for a challenge and looking for something new to learn!
 
 ## 🛠️ My Toolkit
 
